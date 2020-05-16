@@ -35,8 +35,7 @@ To make it preety i use Oh My ZSH with some plugins
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
-After that to make it easier for you i will copy my .zshrc file here so you can copy it 
-to your .zshrc file althogh you can read the documentation yourself and make your own zshrc this mostly the deafult with a bunch of plugins for zsh.
+After that to make it easier for you i will copy my .zshrc file here so you can copy it to your .zshrc file   but first delete everything in it althogh you can read the documentation yourself and make your own zshrc this mostly the deafult with a bunch of plugins for zsh.
 ```
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
